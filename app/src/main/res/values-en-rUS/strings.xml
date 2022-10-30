@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FactsNumber</string>
+    <string name="btn_fact">Get the fact</string>
+    <string name="btn_rnd_fact">Get a fact about a random number</string>
+    <string name="pressed">You clicked on</string>
+    <string name="pressed_random">You clicked on random</string>
+    <string name="number">"Number: "</string>
+    <string name="number_log">Number</string>
+    <string name="spaces">Please fill in all fields</string>
+    <string name="ath_failed">Authentication failed.</string>
+    <string name="chose">"You chose "</string>
+    <string name="facts">Facts</string>
+    <string name="name">"Name: "</string>
+    <string name="name_log">Name</string>
+    <string name="last_name">"Last Name: "</string>
+    <string name="last_name_log">Last name</string>
+    <string name="email">Email</string>
+    <string name="invalid_email">Email is not valid!</string>
+    <string name="main">Go to main</string>
+    <string name="send_email">The letter has been sent!</string>
+    <string name="exit">Go out</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="entry">Entry</string>
+    <string name="email_log">Email</string>
+    <string name="password">"Password: "</string>
+    <string name="password_log">Password</string>
+    <string name="login">Login</string>
+    <string name="recover">Recover password</string>
+    <string name="register">Registration</string>
+</resources>

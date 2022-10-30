@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FactsNumber</string>
+    <string name="btn_fact">Отримати факт</string>
+    <string name="btn_rnd_fact">Отримати факт про випадкове число</string>
+    <string name="pressed">Ви натиснули на </string>
+    <string name="number">Номер: </string>
+    <string name="number_log">Номер</string>
+    <string name="spaces">Будь ласка, заповніть усі поля</string>
+    <string name="ath_failed">Помилка аутентифікації.</string>
+    <string name="chose">Ви вибрали </string>
+    <string name="facts">Факти</string>
+    <string name="name">Ім\'я: </string>
+    <string name="name_log">Ім\'я</string>
+    <string name="last_name">Прізвище: </string>
+    <string name="last_name_log">Прізвище</string>
+    <string name="email">Електронна адреса: </string>
+    <string name="invalid_email">Електронна пошта не дійсна!</string>
+    <string name="send_email">Лист відправленно!</string>
+    <string name="exit">Вийти</string>
+    <string name="congratulations">Вітаємо</string>
+    <string name="entry">Вхід</string>
+    <string name="email_log">Електронна адреса</string>
+    <string name="password">Пароль: </string>
+    <string name="password_log">Пароль</string>
+    <string name="login">Ввійти</string>
+    <string name="recover">Відновити пароль</string>
+    <string name="register">Реєстрація</string>
+    <string name="pressed_random">Ви натиснули на рандом</string>ç
+    <string name="main">На головну</string>
+</resources>
